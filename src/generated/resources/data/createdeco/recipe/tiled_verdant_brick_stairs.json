@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "createdeco",
+  "key": {
+    "X": "createdeco:tiled_verdant_bricks"
+  },
+  "pattern": [
+    "X  ",
+    "XX ",
+    "XXX"
+  ],
+  "result": {
+    "count": 4,
+    "id": "createdeco:tiled_verdant_brick_stairs"
+  }
+}

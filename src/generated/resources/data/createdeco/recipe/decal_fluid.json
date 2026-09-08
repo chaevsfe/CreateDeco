@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "create:iron_sheet",
+  "result": {
+    "count": 1,
+    "id": "createdeco:decal_fluid"
+  }
+}

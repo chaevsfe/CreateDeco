@@ -1,0 +1,9 @@
+{
+  "type": "create:pressing",
+  "ingredient": "createdeco:industrial_iron_nugget",
+  "results": [
+    {
+      "id": "createdeco:industrial_iron_coin"
+    }
+  ]
+}

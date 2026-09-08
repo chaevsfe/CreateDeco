@@ -1,0 +1,31 @@
+Create Fly: Deco (Unofficial Port)
+
+This is an unofficial Fabric port of Create Deco to Minecraft 26.2 against
+Create Fly. It is not published, endorsed or supported by the Create Deco team.
+
+Upstream project
+  Create Deco by Kayla, Talrey, Ordana and Cassian
+  https://github.com/talrey/CreateDeco
+  https://modrinth.com/mod/create-deco
+  Ported from commit 996780be on branch 1.21-neo.
+
+Licence
+  Create Deco is dedicated to the public domain under CC0 1.0 Universal; the
+  full text is in LICENSE, and ships in both the mod jar and the sources jar.
+  The name "Create Deco" is not covered by that dedication (CC0 section 4(a)
+  reserves trademark rights), so this port is published as "Create Fly: Deco
+  (Unofficial Port)" and does not present itself as Create Deco. Upstream's own
+  in-game text, including the two creative tab titles, is left as upstream
+  wrote it.
+
+Port
+  Fabric / Create Fly port by chaevsfe
+  https://github.com/chaevsfe/CreateDeco
+
+  The registration shim under com.github.talrey.createdeco.registrate is
+  chaevsfe's own clean-room code, first written for the Create Power Grid
+  port and relocated here; it is dedicated under CC0 1.0 Universal with the
+  rest of this repository.
+
+Create Fly by ZurrTum is a separate project with its own licence, and none of
+its assets or code are redistributed here.

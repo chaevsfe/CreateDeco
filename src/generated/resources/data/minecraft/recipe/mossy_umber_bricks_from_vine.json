@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "createdeco:umber_bricks",
+    "minecraft:vine"
+  ],
+  "result": {
+    "count": 1,
+    "id": "createdeco:mossy_umber_bricks"
+  }
+}

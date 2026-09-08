@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:black_dye",
+    "create:item_vault"
+  ],
+  "result": {
+    "count": 1,
+    "id": "createdeco:black_shipping_container"
+  }
+}

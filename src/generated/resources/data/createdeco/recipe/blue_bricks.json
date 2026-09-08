@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "a": "create:asurine",
+    "b": "minecraft:brick"
+  },
+  "pattern": [
+    "bbb",
+    "bab",
+    "bbb"
+  ],
+  "result": {
+    "count": 4,
+    "id": "createdeco:blue_bricks"
+  }
+}

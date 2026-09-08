@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "m": "#c:plates/brass",
+    "p": "#c:storage_blocks/brass"
+  },
+  "pattern": [
+    " m ",
+    "mpm",
+    " m "
+  ],
+  "result": {
+    "count": 2,
+    "id": "createdeco:brass_hull"
+  }
+}

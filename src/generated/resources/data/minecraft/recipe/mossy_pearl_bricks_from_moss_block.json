@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "createdeco:pearl_bricks",
+    "minecraft:moss_block"
+  ],
+  "result": {
+    "count": 1,
+    "id": "createdeco:mossy_pearl_bricks"
+  }
+}

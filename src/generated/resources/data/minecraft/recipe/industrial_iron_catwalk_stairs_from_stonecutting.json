@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "createdeco:industrial_iron_ingot",
+  "result": {
+    "count": 2,
+    "id": "createdeco:industrial_iron_catwalk_stairs"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": "createdeco:scarlet_bricks",
+  "result": {
+    "count": 1,
+    "id": "createdeco:cracked_scarlet_bricks"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "dye_placard",
+  "ingredients": [
+    "#createdeco:placards",
+    "minecraft:light_gray_dye"
+  ],
+  "result": {
+    "count": 1,
+    "id": "createdeco:light_gray_placard"
+  }
+}

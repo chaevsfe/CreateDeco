@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "createdeco:verdant_brick_stairs",
+  "result": {
+    "count": 1,
+    "id": "createdeco:short_verdant_brick_stairs"
+  }
+}

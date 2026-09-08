@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_corner_umber_bricks": {
+      "conditions": {
+        "items": [
+          {
+            "items": "createdeco:corner_umber_bricks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "createdeco:tiled_umber_brick_wall_from_corner_umber_bricks_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_corner_umber_bricks"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "createdeco:tiled_umber_brick_wall_from_corner_umber_bricks_stonecutting"
+    ]
+  }
+}

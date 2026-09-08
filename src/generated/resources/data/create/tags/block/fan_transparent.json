@@ -1,0 +1,27 @@
+{
+  "values": [
+    "createdeco:andesite_bars",
+    "createdeco:brass_bars",
+    "createdeco:copper_bars",
+    "createdeco:industrial_iron_bars",
+    "createdeco:zinc_bars",
+    "createdeco:andesite_catwalk",
+    "createdeco:andesite_catwalk_stairs",
+    "createdeco:andesite_catwalk_railing",
+    "createdeco:brass_catwalk",
+    "createdeco:brass_catwalk_stairs",
+    "createdeco:brass_catwalk_railing",
+    "createdeco:iron_catwalk",
+    "createdeco:iron_catwalk_stairs",
+    "createdeco:iron_catwalk_railing",
+    "createdeco:copper_catwalk",
+    "createdeco:copper_catwalk_stairs",
+    "createdeco:copper_catwalk_railing",
+    "createdeco:industrial_iron_catwalk",
+    "createdeco:industrial_iron_catwalk_stairs",
+    "createdeco:industrial_iron_catwalk_railing",
+    "createdeco:zinc_catwalk",
+    "createdeco:zinc_catwalk_stairs",
+    "createdeco:zinc_catwalk_railing"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"render_type": "opaque",
+	"gui_light": "front",
+	"textures": {
+		"0": "createdeco:block/palettes/decals/decal_back",
+		"1": "createdeco:block/palettes/decals/decal_fire",
+		"particle": "createdeco:block/palettes/decals/decal_fire"
+	},
+	"elements": [
+		{
+			"from": [2, 2, 0],
+			"to": [14, 14, 2],
+			"faces": {
+				"north": {"uv": [2, 2, 14, 14], "texture": "#0"},
+				"east": {"uv": [14, 2, 16, 14], "texture": "#1"},
+				"south": {"uv": [2, 2, 14, 14], "texture": "#1"},
+				"west": {"uv": [0, 2, 2, 14], "texture": "#1"},
+				"up": {"uv": [2, 0, 14, 2], "texture": "#1"},
+				"down": {"uv": [2, 14, 14, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 2.25, -5],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 2.25, -5],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"translation": [6, -4, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [6, -4, 0]
+		},
+		"ground": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 2.75, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 0, -13]
+		},
+		"fixed": {
+			"rotation": [180, 0, 180],
+			"translation": [0, 0, -6.5],
+			"scale": [1.4, 1.4, 1]
+		}
+	}
+}

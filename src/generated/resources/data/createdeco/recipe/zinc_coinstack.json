@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "createdeco:zinc_coin",
+    "createdeco:zinc_coin",
+    "createdeco:zinc_coin",
+    "createdeco:zinc_coin"
+  ],
+  "result": {
+    "count": 1,
+    "id": "createdeco:zinc_coinstack"
+  }
+}

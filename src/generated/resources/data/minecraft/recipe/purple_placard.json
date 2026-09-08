@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:item_frame",
+    "create:brass_sheet",
+    "minecraft:purple_dye"
+  ],
+  "result": {
+    "count": 1,
+    "id": "createdeco:purple_placard"
+  }
+}

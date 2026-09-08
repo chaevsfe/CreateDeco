@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "m": "#c:plates/copper"
+  },
+  "pattern": [
+    "mm",
+    "mm"
+  ],
+  "result": {
+    "count": 4,
+    "id": "createdeco:copper_sheet_metal"
+  }
+}

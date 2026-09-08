@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:lime_dye",
+    "create:item_vault"
+  ],
+  "result": {
+    "count": 1,
+    "id": "createdeco:lime_shipping_container"
+  }
+}

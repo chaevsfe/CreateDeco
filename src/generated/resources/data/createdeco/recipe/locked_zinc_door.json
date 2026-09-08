@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:redstone_torch",
+    "createdeco:zinc_door"
+  ],
+  "result": {
+    "count": 1,
+    "id": "createdeco:locked_zinc_door"
+  }
+}

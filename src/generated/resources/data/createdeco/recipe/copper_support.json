@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": "minecraft:copper_ingot"
+  },
+  "pattern": [
+    " b ",
+    "b b",
+    " b "
+  ],
+  "result": {
+    "count": 4,
+    "id": "createdeco:copper_support"
+  }
+}

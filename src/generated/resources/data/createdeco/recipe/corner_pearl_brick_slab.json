@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "createdeco",
+  "key": {
+    "X": "createdeco:corner_pearl_bricks"
+  },
+  "pattern": [
+    "XXX"
+  ],
+  "result": {
+    "count": 6,
+    "id": "createdeco:corner_pearl_brick_slab"
+  }
+}

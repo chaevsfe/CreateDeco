@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": "#c:ingots/brass",
+    "X": "#c:glass_blocks/colorless"
+  },
+  "pattern": [
+    " # ",
+    "#X#"
+  ],
+  "result": {
+    "count": 2,
+    "id": "createdeco:brass_window"
+  }
+}

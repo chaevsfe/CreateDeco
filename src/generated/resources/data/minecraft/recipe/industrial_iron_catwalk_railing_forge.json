@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": "createdeco:industrial_iron_bars",
+    "p": "#c:plates/industrial_iron"
+  },
+  "pattern": [
+    "ppp",
+    "B B",
+    "B B"
+  ],
+  "result": {
+    "count": 8,
+    "id": "createdeco:industrial_iron_catwalk_railing"
+  }
+}

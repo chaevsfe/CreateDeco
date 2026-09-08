@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": "minecraft:barrel",
+    "C": "minecraft:cyan_dye",
+    "S": "create:iron_sheet"
+  },
+  "pattern": [
+    "CS",
+    "SB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "createdeco:cyan_shipping_container"
+  }
+}

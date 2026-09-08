@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "a": "create:ochrum",
+    "b": "minecraft:brick"
+  },
+  "pattern": [
+    "bbb",
+    "bab",
+    "bbb"
+  ],
+  "result": {
+    "count": 4,
+    "id": "createdeco:dean_bricks"
+  }
+}

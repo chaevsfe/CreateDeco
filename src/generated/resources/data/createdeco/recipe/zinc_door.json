@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "m": "create:zinc_ingot"
+  },
+  "pattern": [
+    "mm",
+    "mm",
+    "mm"
+  ],
+  "result": {
+    "count": 3,
+    "id": "createdeco:zinc_door"
+  }
+}

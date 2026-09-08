@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "create:industrial_iron_block"
+  ],
+  "result": {
+    "count": 9,
+    "id": "createdeco:industrial_iron_ingot"
+  }
+}

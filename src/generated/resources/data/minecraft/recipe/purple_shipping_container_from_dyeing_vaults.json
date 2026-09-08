@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:purple_dye",
+    "create:item_vault"
+  ],
+  "result": {
+    "count": 1,
+    "id": "createdeco:purple_shipping_container"
+  }
+}

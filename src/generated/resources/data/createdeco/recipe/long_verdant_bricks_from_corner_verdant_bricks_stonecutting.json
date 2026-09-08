@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "createdeco:corner_verdant_bricks",
+  "result": {
+    "count": 1,
+    "id": "createdeco:long_verdant_bricks"
+  }
+}

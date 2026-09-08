@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "create:brass_ingot",
+  "result": {
+    "count": 4,
+    "id": "createdeco:brass_bars_overlay"
+  }
+}

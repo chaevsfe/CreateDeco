@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "p": "#c:plates/zinc"
+  },
+  "pattern": [
+    " p",
+    "pp"
+  ],
+  "result": {
+    "count": 3,
+    "id": "createdeco:zinc_support_wedge"
+  }
+}

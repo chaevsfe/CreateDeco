@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "createdeco",
+  "version": "${version}",
+  "name": "Create Fly: Deco (Unofficial Port)",
+  "description": "Create Deco port for Create Fly 26.2. Metal bars, catwalks, cage lamps, doors, windows, shipping containers, coins and eight colours of brick.",
+  "authors": [
+    "Kayla",
+    "Talrey",
+    "Ordana",
+    "Cassian",
+    "chaevsfe"
+  ],
+  "contributors": [
+    "chaevsfe"
+  ],
+  "contact": {
+    "homepage": "https://github.com/chaevsfe/CreateDeco",
+    "sources": "https://github.com/chaevsfe/CreateDeco",
+    "issues": "https://github.com/chaevsfe/CreateDeco/issues",
+    "upstream": "https://modrinth.com/mod/create-deco"
+  },
+  "license": [
+    "CC0-1.0"
+  ],
+  "icon": "icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.github.talrey.createdeco.CreateDecoMod"
+    ],
+    "client": [
+      "com.github.talrey.createdeco.client.CreateDecoClient"
+    ],
+    "create_plugin": [
+      "com.github.talrey.createdeco.CreateDecoPlugin"
+    ]
+  },
+  "mixins": [
+    "createdeco.mixins.json"
+  ],
+  "depends": {
+    "minecraft": "${minecraft_dependency_version}",
+    "fabricloader": ">=${fabric_loader_version}",
+    "fabric-api": "*",
+    "create": "${create_fabric_version_range}",
+    "java": ">=25"
+  }
+}

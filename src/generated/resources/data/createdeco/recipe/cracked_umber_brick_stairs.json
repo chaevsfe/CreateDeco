@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "createdeco",
+  "key": {
+    "X": "createdeco:cracked_umber_bricks"
+  },
+  "pattern": [
+    "X  ",
+    "XX ",
+    "XXX"
+  ],
+  "result": {
+    "count": 4,
+    "id": "createdeco:cracked_umber_brick_stairs"
+  }
+}

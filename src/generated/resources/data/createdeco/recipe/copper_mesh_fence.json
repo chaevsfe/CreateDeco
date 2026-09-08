@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "p": "#c:plates/copper",
+    "s": "minecraft:string"
+  },
+  "pattern": [
+    "psp",
+    "psp"
+  ],
+  "result": {
+    "count": 16,
+    "id": "createdeco:copper_mesh_fence"
+  }
+}

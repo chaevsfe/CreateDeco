@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "m": "#c:plates/andesite_alloy",
+    "p": "#c:storage_blocks/andesite_alloy"
+  },
+  "pattern": [
+    " m ",
+    "mpm",
+    " m "
+  ],
+  "result": {
+    "count": 2,
+    "id": "createdeco:andesite_hull"
+  }
+}

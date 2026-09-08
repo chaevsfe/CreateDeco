@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "n": "#c:nuggets/copper",
+    "p": "#c:plates/copper",
+    "t": "minecraft:soul_torch"
+  },
+  "pattern": [
+    "n",
+    "t",
+    "p"
+  ],
+  "result": {
+    "count": 1,
+    "id": "createdeco:blue_copper_lamp"
+  }
+}

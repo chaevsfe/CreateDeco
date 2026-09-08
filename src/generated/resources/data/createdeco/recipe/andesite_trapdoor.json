@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "m": "create:andesite_alloy"
+  },
+  "pattern": [
+    "mm",
+    "mm"
+  ],
+  "result": {
+    "count": 1,
+    "id": "createdeco:andesite_trapdoor"
+  }
+}

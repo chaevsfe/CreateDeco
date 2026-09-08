@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:light_blue_dye",
+    "create:item_vault"
+  ],
+  "result": {
+    "count": 1,
+    "id": "createdeco:light_blue_shipping_container"
+  }
+}

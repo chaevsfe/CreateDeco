@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_dye": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:black_dye"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_item": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#createdeco:placards"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:black_placard_from_dyeing"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_item",
+      "has_dye"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:black_placard_from_dyeing"
+    ]
+  }
+}

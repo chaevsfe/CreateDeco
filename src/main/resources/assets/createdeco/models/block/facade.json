@@ -1,0 +1,25 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"render_type": "translucent",
+	"textures": {
+		"2": "createdeco:block/palettes/catwalks/andesite_catwalk",
+		"particle": "createdeco:create_deco/andesite_catwalk"
+	},
+	"elements": [
+		{
+			"name": "floor",
+			"from": [-0.01, -0.01, -2],
+			"to": [16.01, 16.01, 0.01],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 16, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#2", "cullface": "up"},
+				"east": {"uv": [0, 0, 2, 16], "rotation": 180, "texture": "#2", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 2, 16], "texture": "#2", "cullface": "west"},
+				"up": {"uv": [0, 0, 2, 16], "rotation": 90, "texture": "#2", "cullface": "south"},
+				"down": {"uv": [0, 0, 2, 16], "rotation": 270, "texture": "#2", "cullface": "north"}
+			}
+		}
+	]
+}

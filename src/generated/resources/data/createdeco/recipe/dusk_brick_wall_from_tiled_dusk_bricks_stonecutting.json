@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "createdeco:tiled_dusk_bricks",
+  "result": {
+    "count": 1,
+    "id": "createdeco:dusk_brick_wall"
+  }
+}
