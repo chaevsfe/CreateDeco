@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "createdeco",
   "version": "${version}",
-  "name": "Create Fly: Deco (Unofficial Port)",
+  "name": "Create Fly: Deco",
   "description": "Create Deco port for Create Fly 26.2. Metal bars, catwalks, cage lamps, doors, windows, shipping containers, coins and eight colours of brick.",
   "authors": [
     "Kayla",
