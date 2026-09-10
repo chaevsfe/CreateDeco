@@ -39,6 +39,10 @@
   "mixins": [
     "createdeco.mixins.json"
   ],
+  "suggests": {
+    "createreiviewer": "*",
+    "roughlyenoughitems": "*"
+  },
   "depends": {
     "minecraft": "${minecraft_dependency_version}",
     "fabricloader": ">=${fabric_loader_version}",
