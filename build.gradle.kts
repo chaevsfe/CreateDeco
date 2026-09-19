@@ -26,6 +26,7 @@ repositories {
 val recipeViewer = ":CreateReiViewer:${property("createreiviewer_version")}+fabric-mc${property("minecraft_version")}"
 
 loom {
+    accessWidenerPath = file("src/main/resources/createdeco.accesswidener")
     mods {
         create("createdeco") {
             sourceSet(sourceSets.main.get())
@@ -104,6 +105,7 @@ val allowedJarFiles = listOf(
     "pack.mcmeta",
     "LICENSE",
     "NOTICE",
+    "createdeco.accesswidener",
 )
 
 val foreignTag = Regex("^data/[a-z0-9_.-]+/tags/.+\\.json$")

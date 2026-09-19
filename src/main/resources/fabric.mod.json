@@ -23,6 +23,7 @@
   "license": [
     "CC0-1.0"
   ],
+  "accessWidener": "createdeco.accesswidener",
   "icon": "icon.png",
   "environment": "*",
   "entrypoints": {
