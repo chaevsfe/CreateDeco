@@ -9,6 +9,6 @@ public class SharedProperties {
     }
 
     public static Block softMetal() {
-        return Blocks.IRON_BLOCK;
+        return Blocks.GOLD_BLOCK;
     }
 }
