@@ -2,7 +2,6 @@ package com.github.talrey.createdeco.blocks;
 
 import net.minecraft.util.RandomSource;
 import net.minecraft.world.level.ScheduledTickAccess;
-import com.mojang.serialization.MapCodec;
 import com.zurrtum.create.content.equipment.wrench.IWrenchable;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
@@ -29,10 +28,6 @@ public class FacadeBlock extends MultifaceBlock implements IWrenchable, SimpleWa
     this.registerDefaultState(this.defaultBlockState().setValue(WATERLOGGED, false));
   }
 
-    @Override
-    protected MapCodec<? extends MultifaceBlock> codec() {
-        return null;
-    }
 
     @Override
     protected void createBlockStateDefinition(StateDefinition.Builder<Block, BlockState> builder) {

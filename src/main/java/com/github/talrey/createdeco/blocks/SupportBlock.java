@@ -1,7 +1,6 @@
 package com.github.talrey.createdeco.blocks;
 
 import net.minecraft.world.entity.LivingEntity;
-import com.mojang.serialization.MapCodec;
 import com.zurrtum.create.foundation.block.ProperWaterloggedBlock;
 import com.zurrtum.create.foundation.placement.PoleHelper;
 import com.zurrtum.create.catnip.placement.IPlacementHelper;
@@ -71,10 +70,6 @@ public class SupportBlock extends DirectionalBlock implements ProperWaterloggedB
             .setValue(WATERLOGGED, false));
   }
 
-    @Override
-    protected MapCodec<? extends DirectionalBlock> codec() {
-        return null;
-    }
 
     @Override
   protected void createBlockStateDefinition (StateDefinition.Builder<Block, BlockState> builder) {

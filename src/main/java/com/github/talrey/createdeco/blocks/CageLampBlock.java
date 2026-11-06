@@ -3,7 +3,6 @@ package com.github.talrey.createdeco.blocks;
 import net.minecraft.util.RandomSource;
 import net.minecraft.world.level.ScheduledTickAccess;
 import net.minecraft.world.level.redstone.Orientation;
-import com.mojang.serialization.MapCodec;
 import com.zurrtum.create.content.equipment.wrench.IWrenchable;
 import com.zurrtum.create.foundation.block.ProperWaterloggedBlock;
 import net.minecraft.core.BlockPos;
@@ -176,8 +175,4 @@ public class CageLampBlock extends DirectionalBlock implements ProperWaterlogged
     return Block.canSupportCenter(level, opposite, facing.getOpposite());
   }
 
-  @Override
-  protected MapCodec<? extends DirectionalBlock> codec() {
-        return null;
-    }
 }
