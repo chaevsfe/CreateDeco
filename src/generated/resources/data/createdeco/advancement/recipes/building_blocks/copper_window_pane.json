@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:copper_window_pane"
+        "recipes": "createdeco:copper_window_pane"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

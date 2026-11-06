@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:dean_brick_stairs_from_tiled_dean_brick_stairs_stonecutting"
+        "recipes": "createdeco:dean_brick_stairs_from_tiled_dean_brick_stairs_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     },

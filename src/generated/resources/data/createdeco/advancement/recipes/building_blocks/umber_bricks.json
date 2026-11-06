@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:umber_bricks"
+        "recipes": "createdeco:umber_bricks"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

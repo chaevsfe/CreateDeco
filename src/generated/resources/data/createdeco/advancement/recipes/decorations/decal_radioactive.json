@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:decal_radioactive"
+        "recipes": "createdeco:decal_radioactive"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

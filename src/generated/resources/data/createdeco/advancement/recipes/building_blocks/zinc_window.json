@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:zinc_window"
+        "recipes": "createdeco:zinc_window"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

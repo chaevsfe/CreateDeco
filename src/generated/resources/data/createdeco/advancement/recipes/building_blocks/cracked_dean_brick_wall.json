@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:cracked_dean_brick_wall"
+        "recipes": "createdeco:cracked_dean_brick_wall"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

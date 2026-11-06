@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:red_andesite_lamp"
+        "recipes": "createdeco:red_andesite_lamp"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

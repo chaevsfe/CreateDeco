@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:industrial_iron_door"
+        "recipes": "createdeco:industrial_iron_door"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:iron_catwalk_stairs"
+        "recipes": "createdeco:iron_catwalk_stairs"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:dean_bricks"
+        "recipes": "createdeco:dean_bricks"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

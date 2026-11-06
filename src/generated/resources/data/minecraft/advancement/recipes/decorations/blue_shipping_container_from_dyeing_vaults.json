@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:blue_shipping_container_from_dyeing_vaults"
+        "recipes": "minecraft:blue_shipping_container_from_dyeing_vaults"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

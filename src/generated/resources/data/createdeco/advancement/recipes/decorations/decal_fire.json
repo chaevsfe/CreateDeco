@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:decal_fire"
+        "recipes": "createdeco:decal_fire"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

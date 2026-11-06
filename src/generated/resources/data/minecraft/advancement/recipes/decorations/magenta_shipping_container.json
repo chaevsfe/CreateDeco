@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:magenta_shipping_container"
+        "recipes": "minecraft:magenta_shipping_container"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:andesite_catwalk_stairs"
+        "recipes": "createdeco:andesite_catwalk_stairs"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

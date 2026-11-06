@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:white_shipping_container"
+        "recipes": "minecraft:white_shipping_container"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

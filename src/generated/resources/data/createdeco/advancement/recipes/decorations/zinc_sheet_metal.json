@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:zinc_sheet_metal"
+        "recipes": "createdeco:zinc_sheet_metal"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

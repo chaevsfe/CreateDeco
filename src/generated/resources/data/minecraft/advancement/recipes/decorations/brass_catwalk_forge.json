@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:brass_catwalk_forge"
+        "recipes": "minecraft:brass_catwalk_forge"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

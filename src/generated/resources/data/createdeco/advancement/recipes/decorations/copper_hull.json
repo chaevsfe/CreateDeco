@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:copper_hull"
+        "recipes": "createdeco:copper_hull"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

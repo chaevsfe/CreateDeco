@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:iron_bars_overlay"
+        "recipes": "minecraft:iron_bars_overlay"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

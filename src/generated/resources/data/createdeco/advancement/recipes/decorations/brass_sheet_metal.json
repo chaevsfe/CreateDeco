@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:brass_sheet_metal"
+        "recipes": "createdeco:brass_sheet_metal"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

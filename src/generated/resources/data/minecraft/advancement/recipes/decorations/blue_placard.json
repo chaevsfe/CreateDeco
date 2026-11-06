@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:blue_placard"
+        "recipes": "minecraft:blue_placard"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

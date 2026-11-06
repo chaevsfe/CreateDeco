@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:brass_door"
+        "recipes": "createdeco:brass_door"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

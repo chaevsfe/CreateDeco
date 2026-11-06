@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:brass_mesh_fence"
+        "recipes": "createdeco:brass_mesh_fence"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

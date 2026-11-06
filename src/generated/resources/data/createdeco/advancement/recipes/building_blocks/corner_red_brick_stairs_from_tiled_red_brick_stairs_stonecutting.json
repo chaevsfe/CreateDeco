@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:corner_red_brick_stairs_from_tiled_red_brick_stairs_stonecutting"
+        "recipes": "createdeco:corner_red_brick_stairs_from_tiled_red_brick_stairs_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     },

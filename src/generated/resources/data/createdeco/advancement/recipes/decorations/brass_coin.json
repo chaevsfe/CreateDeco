@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:brass_coin"
+        "recipes": "createdeco:brass_coin"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

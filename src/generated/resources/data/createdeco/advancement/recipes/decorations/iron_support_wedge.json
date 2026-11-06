@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:iron_support_wedge"
+        "recipes": "createdeco:iron_support_wedge"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

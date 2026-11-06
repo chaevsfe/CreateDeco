@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:long_umber_bricks_from_corner_umber_bricks_stonecutting"
+        "recipes": "createdeco:long_umber_bricks_from_corner_umber_bricks_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

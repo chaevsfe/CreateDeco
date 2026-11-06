@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:brass_trapdoor"
+        "recipes": "createdeco:brass_trapdoor"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

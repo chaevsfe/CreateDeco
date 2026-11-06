@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:corner_dusk_brick_slab_from_short_dusk_brick_slab_stonecutting"
+        "recipes": "createdeco:corner_dusk_brick_slab_from_short_dusk_brick_slab_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

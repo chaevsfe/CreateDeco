@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:short_scarlet_brick_slab_from_scarlet_bricks_stonecutting"
+        "recipes": "createdeco:short_scarlet_brick_slab_from_scarlet_bricks_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

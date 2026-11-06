@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:zinc_bars"
+        "recipes": "minecraft:zinc_bars"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

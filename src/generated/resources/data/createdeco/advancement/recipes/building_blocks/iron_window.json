@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:iron_window"
+        "recipes": "createdeco:iron_window"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

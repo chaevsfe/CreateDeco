@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:industrial_iron_trapdoor"
+        "recipes": "createdeco:industrial_iron_trapdoor"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

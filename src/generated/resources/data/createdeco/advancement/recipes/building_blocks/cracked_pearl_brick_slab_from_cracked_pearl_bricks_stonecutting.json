@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:cracked_pearl_brick_slab_from_cracked_pearl_bricks_stonecutting"
+        "recipes": "createdeco:cracked_pearl_brick_slab_from_cracked_pearl_bricks_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

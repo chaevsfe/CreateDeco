@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:brass_hull"
+        "recipes": "createdeco:brass_hull"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

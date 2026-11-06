@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:blue_brick_stairs"
+        "recipes": "createdeco:blue_brick_stairs"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

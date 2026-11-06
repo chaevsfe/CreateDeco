@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:netherite_coin"
+        "recipes": "createdeco:netherite_coin"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

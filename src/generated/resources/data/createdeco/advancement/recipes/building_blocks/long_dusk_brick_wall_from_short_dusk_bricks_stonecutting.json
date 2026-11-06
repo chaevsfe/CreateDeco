@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:long_dusk_brick_wall_from_short_dusk_bricks_stonecutting"
+        "recipes": "createdeco:long_dusk_brick_wall_from_short_dusk_bricks_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

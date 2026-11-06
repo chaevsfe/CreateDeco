@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:pink_placard"
+        "recipes": "minecraft:pink_placard"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

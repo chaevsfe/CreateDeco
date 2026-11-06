@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:verdant_bricks"
+        "recipes": "createdeco:verdant_bricks"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

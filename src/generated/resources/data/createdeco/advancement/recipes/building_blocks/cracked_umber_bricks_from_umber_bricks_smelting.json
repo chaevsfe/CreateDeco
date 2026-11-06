@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:cracked_umber_bricks_from_umber_bricks_smelting"
+        "recipes": "createdeco:cracked_umber_bricks_from_umber_bricks_smelting"
       },
       "trigger": "minecraft:recipe_unlocked"
     },

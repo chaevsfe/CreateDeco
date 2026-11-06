@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:brass_window_pane"
+        "recipes": "createdeco:brass_window_pane"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

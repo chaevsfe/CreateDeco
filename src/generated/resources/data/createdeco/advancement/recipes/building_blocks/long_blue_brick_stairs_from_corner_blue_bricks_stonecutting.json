@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:long_blue_brick_stairs_from_corner_blue_bricks_stonecutting"
+        "recipes": "createdeco:long_blue_brick_stairs_from_corner_blue_bricks_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

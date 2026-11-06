@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:short_verdant_brick_wall"
+        "recipes": "createdeco:short_verdant_brick_wall"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

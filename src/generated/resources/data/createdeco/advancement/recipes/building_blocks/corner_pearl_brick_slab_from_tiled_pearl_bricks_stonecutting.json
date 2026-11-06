@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:corner_pearl_brick_slab_from_tiled_pearl_bricks_stonecutting"
+        "recipes": "createdeco:corner_pearl_brick_slab_from_tiled_pearl_bricks_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     },

@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:decal_right"
+        "recipes": "createdeco:decal_right"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:red_industrial_iron_lamp"
+        "recipes": "createdeco:red_industrial_iron_lamp"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

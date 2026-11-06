@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:mossy_pearl_brick_wall"
+        "recipes": "createdeco:mossy_pearl_brick_wall"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

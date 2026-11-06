@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:zinc_catwalk_forge"
+        "recipes": "minecraft:zinc_catwalk_forge"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

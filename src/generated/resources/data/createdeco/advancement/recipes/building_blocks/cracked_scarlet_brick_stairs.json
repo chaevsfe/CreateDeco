@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:cracked_scarlet_brick_stairs"
+        "recipes": "createdeco:cracked_scarlet_brick_stairs"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

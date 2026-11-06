@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:copper_coinstack"
+        "recipes": "createdeco:copper_coinstack"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

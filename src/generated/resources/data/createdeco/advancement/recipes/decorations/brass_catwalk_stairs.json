@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:brass_catwalk_stairs"
+        "recipes": "createdeco:brass_catwalk_stairs"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

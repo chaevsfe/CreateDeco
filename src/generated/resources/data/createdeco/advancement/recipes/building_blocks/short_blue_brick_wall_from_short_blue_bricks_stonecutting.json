@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:short_blue_brick_wall_from_short_blue_bricks_stonecutting"
+        "recipes": "createdeco:short_blue_brick_wall_from_short_blue_bricks_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

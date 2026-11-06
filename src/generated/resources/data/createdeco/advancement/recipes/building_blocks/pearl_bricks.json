@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:pearl_bricks"
+        "recipes": "createdeco:pearl_bricks"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

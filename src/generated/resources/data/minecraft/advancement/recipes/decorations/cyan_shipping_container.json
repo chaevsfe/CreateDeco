@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:cyan_shipping_container"
+        "recipes": "minecraft:cyan_shipping_container"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

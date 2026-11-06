@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:umber_brick_wall_from_umber_bricks_stonecutting"
+        "recipes": "createdeco:umber_brick_wall_from_umber_bricks_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     },

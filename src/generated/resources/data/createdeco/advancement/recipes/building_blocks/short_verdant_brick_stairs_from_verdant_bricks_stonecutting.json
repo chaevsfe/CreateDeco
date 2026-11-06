@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:short_verdant_brick_stairs_from_verdant_bricks_stonecutting"
+        "recipes": "createdeco:short_verdant_brick_stairs_from_verdant_bricks_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     },

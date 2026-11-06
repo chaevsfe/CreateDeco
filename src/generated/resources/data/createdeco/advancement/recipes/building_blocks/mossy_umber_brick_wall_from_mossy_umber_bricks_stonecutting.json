@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:mossy_umber_brick_wall_from_mossy_umber_bricks_stonecutting"
+        "recipes": "createdeco:mossy_umber_brick_wall_from_mossy_umber_bricks_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:corner_verdant_brick_wall_from_tiled_verdant_brick_wall_stonecutting"
+        "recipes": "createdeco:corner_verdant_brick_wall_from_tiled_verdant_brick_wall_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     },

@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:brass_bars"
+        "recipes": "minecraft:brass_bars"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

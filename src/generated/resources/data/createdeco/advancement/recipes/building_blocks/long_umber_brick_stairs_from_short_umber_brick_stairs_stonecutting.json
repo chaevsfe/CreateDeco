@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:long_umber_brick_stairs_from_short_umber_brick_stairs_stonecutting"
+        "recipes": "createdeco:long_umber_brick_stairs_from_short_umber_brick_stairs_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

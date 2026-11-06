@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:yellow_copper_lamp"
+        "recipes": "createdeco:yellow_copper_lamp"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

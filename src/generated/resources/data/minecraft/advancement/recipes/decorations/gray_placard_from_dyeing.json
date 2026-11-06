@@ -23,7 +23,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:gray_placard_from_dyeing"
+        "recipes": "minecraft:gray_placard_from_dyeing"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

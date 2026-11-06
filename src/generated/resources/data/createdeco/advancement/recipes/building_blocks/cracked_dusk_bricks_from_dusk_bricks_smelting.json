@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:cracked_dusk_bricks_from_dusk_bricks_smelting"
+        "recipes": "createdeco:cracked_dusk_bricks_from_dusk_bricks_smelting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

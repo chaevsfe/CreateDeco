@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:zinc_door"
+        "recipes": "createdeco:zinc_door"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:orange_shipping_container"
+        "recipes": "minecraft:orange_shipping_container"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

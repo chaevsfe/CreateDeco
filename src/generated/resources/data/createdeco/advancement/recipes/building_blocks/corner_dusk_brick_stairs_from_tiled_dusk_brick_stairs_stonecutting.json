@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:corner_dusk_brick_stairs_from_tiled_dusk_brick_stairs_stonecutting"
+        "recipes": "createdeco:corner_dusk_brick_stairs_from_tiled_dusk_brick_stairs_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     },

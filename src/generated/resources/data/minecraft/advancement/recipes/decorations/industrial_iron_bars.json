@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:industrial_iron_bars"
+        "recipes": "minecraft:industrial_iron_bars"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

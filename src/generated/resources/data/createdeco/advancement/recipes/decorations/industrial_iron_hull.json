@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:industrial_iron_hull"
+        "recipes": "createdeco:industrial_iron_hull"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

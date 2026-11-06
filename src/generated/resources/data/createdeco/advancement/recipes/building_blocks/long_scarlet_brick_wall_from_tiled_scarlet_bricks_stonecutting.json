@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:long_scarlet_brick_wall_from_tiled_scarlet_bricks_stonecutting"
+        "recipes": "createdeco:long_scarlet_brick_wall_from_tiled_scarlet_bricks_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     },

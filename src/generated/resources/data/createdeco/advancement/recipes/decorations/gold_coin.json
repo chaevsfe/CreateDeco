@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:gold_coin"
+        "recipes": "createdeco:gold_coin"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

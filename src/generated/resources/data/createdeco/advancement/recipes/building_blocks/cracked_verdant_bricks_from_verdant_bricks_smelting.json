@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:cracked_verdant_bricks_from_verdant_bricks_smelting"
+        "recipes": "createdeco:cracked_verdant_bricks_from_verdant_bricks_smelting"
       },
       "trigger": "minecraft:recipe_unlocked"
     },

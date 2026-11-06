@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "createdeco:zinc_coin"
+        "recipes": "createdeco:zinc_coin"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
