@@ -24,7 +24,7 @@ public class Windows {
     return p.isValidSpawn(Windows::never)
         .isRedstoneConductor(Windows::never)
         .isSuffocating(Windows::never)
-        .isViewBlocking(Windows::never);
+        .isViewBlocking((a, b, c, d) -> false);
   }
 
   private static boolean never(BlockState state, BlockGetter getter, BlockPos pos) {

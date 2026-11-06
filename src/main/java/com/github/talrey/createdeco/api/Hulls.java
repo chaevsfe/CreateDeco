@@ -19,7 +19,7 @@ public class Hulls {
             .requiresCorrectToolForDrops()
             .sound(SoundType.NETHERITE_BLOCK)
             .noOcclusion()
-            .isViewBlocking((a,b,c)->false)
+            .isViewBlocking((a, b, c, d) -> false)
         )
         
         .item()

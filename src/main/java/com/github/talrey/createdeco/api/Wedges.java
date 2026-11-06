@@ -19,7 +19,7 @@ public class Wedges {
         .requiresCorrectToolForDrops()
         .sound(SoundType.NETHERITE_BLOCK)
         .noOcclusion()
-        .isViewBlocking((a, b, c) -> false)
+        .isViewBlocking((a, b, c, d) -> false)
         .isSuffocating((a, b, c) -> false)
       )
       

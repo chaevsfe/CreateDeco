@@ -36,7 +36,7 @@ public class Decals {
               .strength(2,2)
               .sound(SoundType.LANTERN)
               .noOcclusion()
-              .isViewBlocking((a, b, c) -> false)
+              .isViewBlocking((a, b, c, d) -> false)
               .isSuffocating((a, b, c) -> false)
               .instabreak()
           )
