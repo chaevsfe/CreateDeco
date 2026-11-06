@@ -6,67 +6,59 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "functions": [
+          "modifier": [
             {
+              "type": "minecraft:set_count",
               "add": false,
-              "count": 0.0,
-              "function": "minecraft:set_count"
+              "count": 0.0
             },
             {
+              "type": "minecraft:set_count",
               "add": true,
-              "conditions": [
-                {
-                  "block": "createdeco:copper_catwalk_railing",
-                  "condition": "minecraft:block_state_property",
-                  "properties": {
-                    "north": "true"
-                  }
+              "condition": {
+                "type": "minecraft:match_block",
+                "blocks": "createdeco:copper_catwalk_railing",
+                "state": {
+                  "north": "true"
                 }
-              ],
-              "count": 1.0,
-              "function": "minecraft:set_count"
+              },
+              "count": 1.0
             },
             {
+              "type": "minecraft:set_count",
               "add": true,
-              "conditions": [
-                {
-                  "block": "createdeco:copper_catwalk_railing",
-                  "condition": "minecraft:block_state_property",
-                  "properties": {
-                    "south": "true"
-                  }
+              "condition": {
+                "type": "minecraft:match_block",
+                "blocks": "createdeco:copper_catwalk_railing",
+                "state": {
+                  "south": "true"
                 }
-              ],
-              "count": 1.0,
-              "function": "minecraft:set_count"
+              },
+              "count": 1.0
             },
             {
+              "type": "minecraft:set_count",
               "add": true,
-              "conditions": [
-                {
-                  "block": "createdeco:copper_catwalk_railing",
-                  "condition": "minecraft:block_state_property",
-                  "properties": {
-                    "west": "true"
-                  }
+              "condition": {
+                "type": "minecraft:match_block",
+                "blocks": "createdeco:copper_catwalk_railing",
+                "state": {
+                  "west": "true"
                 }
-              ],
-              "count": 1.0,
-              "function": "minecraft:set_count"
+              },
+              "count": 1.0
             },
             {
+              "type": "minecraft:set_count",
               "add": true,
-              "conditions": [
-                {
-                  "block": "createdeco:copper_catwalk_railing",
-                  "condition": "minecraft:block_state_property",
-                  "properties": {
-                    "east": "true"
-                  }
+              "condition": {
+                "type": "minecraft:match_block",
+                "blocks": "createdeco:copper_catwalk_railing",
+                "state": {
+                  "east": "true"
                 }
-              ],
-              "count": 1.0,
-              "function": "minecraft:set_count"
+              },
+              "count": 1.0
             }
           ],
           "name": "createdeco:copper_catwalk_railing"

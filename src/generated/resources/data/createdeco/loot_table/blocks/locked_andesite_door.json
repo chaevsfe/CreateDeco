@@ -3,15 +3,13 @@
   "pools": [
     {
       "bonus_rolls": 0.0,
-      "conditions": [
-        {
-          "block": "createdeco:locked_andesite_door",
-          "condition": "minecraft:block_state_property",
-          "properties": {
-            "half": "lower"
-          }
+      "condition": {
+        "type": "minecraft:match_block",
+        "blocks": "createdeco:locked_andesite_door",
+        "state": {
+          "half": "lower"
         }
-      ],
+      },
       "entries": [
         {
           "type": "minecraft:item",

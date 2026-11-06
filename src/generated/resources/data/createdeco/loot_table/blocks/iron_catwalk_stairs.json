@@ -6,13 +6,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "functions": [
-            {
-              "add": false,
-              "count": 1.0,
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "type": "minecraft:set_count",
+            "add": false,
+            "count": 1.0
+          },
           "name": "createdeco:iron_catwalk_stairs"
         }
       ],
@@ -23,39 +21,35 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "functions": [
+          "modifier": [
             {
+              "type": "minecraft:set_count",
               "add": false,
-              "count": 0.0,
-              "function": "minecraft:set_count"
+              "count": 0.0
             },
             {
+              "type": "minecraft:set_count",
               "add": true,
-              "conditions": [
-                {
-                  "block": "createdeco:iron_catwalk_stairs",
-                  "condition": "minecraft:block_state_property",
-                  "properties": {
-                    "railing_left": "true"
-                  }
+              "condition": {
+                "type": "minecraft:match_block",
+                "blocks": "createdeco:iron_catwalk_stairs",
+                "state": {
+                  "railing_left": "true"
                 }
-              ],
-              "count": 1.0,
-              "function": "minecraft:set_count"
+              },
+              "count": 1.0
             },
             {
+              "type": "minecraft:set_count",
               "add": true,
-              "conditions": [
-                {
-                  "block": "createdeco:iron_catwalk_stairs",
-                  "condition": "minecraft:block_state_property",
-                  "properties": {
-                    "railing_right": "true"
-                  }
+              "condition": {
+                "type": "minecraft:match_block",
+                "blocks": "createdeco:iron_catwalk_stairs",
+                "state": {
+                  "railing_right": "true"
                 }
-              ],
-              "count": 1.0,
-              "function": "minecraft:set_count"
+              },
+              "count": 1.0
             }
           ],
           "name": "createdeco:iron_catwalk_railing"

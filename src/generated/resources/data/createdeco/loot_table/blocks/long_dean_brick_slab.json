@@ -6,22 +6,18 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "functions": [
-            {
-              "add": false,
-              "conditions": [
-                {
-                  "block": "createdeco:long_dean_brick_slab",
-                  "condition": "minecraft:block_state_property",
-                  "properties": {
-                    "type": "double"
-                  }
-                }
-              ],
-              "count": 2.0,
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "type": "minecraft:set_count",
+            "add": false,
+            "condition": {
+              "type": "minecraft:match_block",
+              "blocks": "createdeco:long_dean_brick_slab",
+              "state": {
+                "type": "double"
+              }
+            },
+            "count": 2.0
+          },
           "name": "createdeco:long_dean_brick_slab"
         }
       ],

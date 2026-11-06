@@ -3,15 +3,13 @@
   "pools": [
     {
       "bonus_rolls": 0.0,
-      "conditions": [
-        {
-          "block": "createdeco:brass_door",
-          "condition": "minecraft:block_state_property",
-          "properties": {
-            "half": "lower"
-          }
+      "condition": {
+        "type": "minecraft:match_block",
+        "blocks": "createdeco:brass_door",
+        "state": {
+          "half": "lower"
         }
-      ],
+      },
       "entries": [
         {
           "type": "minecraft:item",
