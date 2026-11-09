@@ -1,112 +1,436 @@
 {
   "values": [
-    "createdeco:andesite_catwalk_railing",
-    "createdeco:andesite_sheet_metal",
-    "createdeco:andesite_support",
-    "createdeco:andesite_window",
-    "createdeco:andesite_window_pane",
-    "createdeco:black_shipping_container",
-    "createdeco:blue_bricks",
-    "createdeco:blue_shipping_container",
-    "createdeco:brass_catwalk_railing",
-    "createdeco:brass_coinstack",
-    "createdeco:brass_sheet_metal",
-    "createdeco:brass_support",
-    "createdeco:brass_window",
-    "createdeco:brass_window_pane",
-    "createdeco:brown_shipping_container",
-    "createdeco:copper_catwalk_railing",
-    "createdeco:copper_coinstack",
-    "createdeco:copper_sheet_metal",
-    "createdeco:copper_support",
-    "createdeco:copper_window",
-    "createdeco:copper_window_pane",
-    "createdeco:corner_blue_bricks",
-    "createdeco:corner_dean_bricks",
-    "createdeco:corner_dusk_bricks",
-    "createdeco:corner_pearl_bricks",
-    "createdeco:corner_red_bricks",
-    "createdeco:corner_scarlet_bricks",
-    "createdeco:corner_umber_bricks",
-    "createdeco:corner_verdant_bricks",
-    "createdeco:cracked_blue_bricks",
-    "createdeco:cracked_dean_bricks",
-    "createdeco:cracked_dusk_bricks",
-    "createdeco:cracked_pearl_bricks",
-    "createdeco:cracked_red_bricks",
-    "createdeco:cracked_scarlet_bricks",
-    "createdeco:cracked_umber_bricks",
-    "createdeco:cracked_verdant_bricks",
-    "createdeco:cyan_shipping_container",
-    "createdeco:dean_bricks",
-    "createdeco:dusk_bricks",
-    "createdeco:gold_coinstack",
-    "createdeco:gray_shipping_container",
-    "createdeco:green_shipping_container",
-    "createdeco:industrial_iron_catwalk_railing",
-    "createdeco:industrial_iron_coinstack",
-    "createdeco:industrial_iron_sheet_metal",
-    "createdeco:industrial_iron_support",
-    "createdeco:industrial_iron_window",
-    "createdeco:industrial_iron_window_pane",
-    "createdeco:iron_catwalk_railing",
-    "createdeco:iron_coinstack",
-    "createdeco:iron_sheet_metal",
-    "createdeco:iron_support",
-    "createdeco:iron_window",
-    "createdeco:iron_window_pane",
-    "createdeco:light_blue_shipping_container",
-    "createdeco:light_gray_shipping_container",
-    "createdeco:lime_shipping_container",
-    "createdeco:long_blue_bricks",
-    "createdeco:long_dean_bricks",
-    "createdeco:long_dusk_bricks",
-    "createdeco:long_pearl_bricks",
-    "createdeco:long_red_bricks",
-    "createdeco:long_scarlet_bricks",
-    "createdeco:long_umber_bricks",
-    "createdeco:long_verdant_bricks",
-    "createdeco:magenta_shipping_container",
-    "createdeco:mossy_blue_bricks",
-    "createdeco:mossy_dean_bricks",
-    "createdeco:mossy_dusk_bricks",
-    "createdeco:mossy_pearl_bricks",
-    "createdeco:mossy_red_bricks",
-    "createdeco:mossy_scarlet_bricks",
-    "createdeco:mossy_umber_bricks",
-    "createdeco:mossy_verdant_bricks",
-    "createdeco:netherite_coinstack",
-    "createdeco:orange_shipping_container",
-    "createdeco:pearl_bricks",
-    "createdeco:pink_shipping_container",
-    "createdeco:purple_shipping_container",
-    "createdeco:red_shipping_container",
-    "createdeco:scarlet_bricks",
-    "createdeco:short_blue_bricks",
-    "createdeco:short_dean_bricks",
-    "createdeco:short_dusk_bricks",
-    "createdeco:short_pearl_bricks",
-    "createdeco:short_red_bricks",
-    "createdeco:short_scarlet_bricks",
-    "createdeco:short_umber_bricks",
-    "createdeco:short_verdant_bricks",
-    "createdeco:tiled_blue_bricks",
-    "createdeco:tiled_dean_bricks",
-    "createdeco:tiled_dusk_bricks",
-    "createdeco:tiled_pearl_bricks",
-    "createdeco:tiled_red_bricks",
-    "createdeco:tiled_scarlet_bricks",
-    "createdeco:tiled_umber_bricks",
-    "createdeco:tiled_verdant_bricks",
-    "createdeco:umber_bricks",
-    "createdeco:verdant_bricks",
-    "createdeco:white_shipping_container",
-    "createdeco:yellow_shipping_container",
-    "createdeco:zinc_catwalk_railing",
-    "createdeco:zinc_coinstack",
-    "createdeco:zinc_sheet_metal",
-    "createdeco:zinc_support",
-    "createdeco:zinc_window",
-    "createdeco:zinc_window_pane"
+    {
+      "id": "createdeco:andesite_catwalk_railing",
+      "required": false
+    },
+    {
+      "id": "createdeco:andesite_sheet_metal",
+      "required": false
+    },
+    {
+      "id": "createdeco:andesite_support",
+      "required": false
+    },
+    {
+      "id": "createdeco:andesite_window",
+      "required": false
+    },
+    {
+      "id": "createdeco:andesite_window_pane",
+      "required": false
+    },
+    {
+      "id": "createdeco:black_shipping_container",
+      "required": false
+    },
+    {
+      "id": "createdeco:blue_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:blue_shipping_container",
+      "required": false
+    },
+    {
+      "id": "createdeco:brass_catwalk_railing",
+      "required": false
+    },
+    {
+      "id": "createdeco:brass_coinstack",
+      "required": false
+    },
+    {
+      "id": "createdeco:brass_sheet_metal",
+      "required": false
+    },
+    {
+      "id": "createdeco:brass_support",
+      "required": false
+    },
+    {
+      "id": "createdeco:brass_window",
+      "required": false
+    },
+    {
+      "id": "createdeco:brass_window_pane",
+      "required": false
+    },
+    {
+      "id": "createdeco:brown_shipping_container",
+      "required": false
+    },
+    {
+      "id": "createdeco:copper_catwalk_railing",
+      "required": false
+    },
+    {
+      "id": "createdeco:copper_coinstack",
+      "required": false
+    },
+    {
+      "id": "createdeco:copper_sheet_metal",
+      "required": false
+    },
+    {
+      "id": "createdeco:copper_support",
+      "required": false
+    },
+    {
+      "id": "createdeco:copper_window",
+      "required": false
+    },
+    {
+      "id": "createdeco:copper_window_pane",
+      "required": false
+    },
+    {
+      "id": "createdeco:corner_blue_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:corner_dean_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:corner_dusk_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:corner_pearl_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:corner_red_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:corner_scarlet_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:corner_umber_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:corner_verdant_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:cracked_blue_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:cracked_dean_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:cracked_dusk_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:cracked_pearl_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:cracked_red_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:cracked_scarlet_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:cracked_umber_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:cracked_verdant_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:cyan_shipping_container",
+      "required": false
+    },
+    {
+      "id": "createdeco:dean_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:dusk_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:gold_coinstack",
+      "required": false
+    },
+    {
+      "id": "createdeco:gray_shipping_container",
+      "required": false
+    },
+    {
+      "id": "createdeco:green_shipping_container",
+      "required": false
+    },
+    {
+      "id": "createdeco:industrial_iron_catwalk_railing",
+      "required": false
+    },
+    {
+      "id": "createdeco:industrial_iron_coinstack",
+      "required": false
+    },
+    {
+      "id": "createdeco:industrial_iron_sheet_metal",
+      "required": false
+    },
+    {
+      "id": "createdeco:industrial_iron_support",
+      "required": false
+    },
+    {
+      "id": "createdeco:industrial_iron_window",
+      "required": false
+    },
+    {
+      "id": "createdeco:industrial_iron_window_pane",
+      "required": false
+    },
+    {
+      "id": "createdeco:iron_catwalk_railing",
+      "required": false
+    },
+    {
+      "id": "createdeco:iron_coinstack",
+      "required": false
+    },
+    {
+      "id": "createdeco:iron_sheet_metal",
+      "required": false
+    },
+    {
+      "id": "createdeco:iron_support",
+      "required": false
+    },
+    {
+      "id": "createdeco:iron_window",
+      "required": false
+    },
+    {
+      "id": "createdeco:iron_window_pane",
+      "required": false
+    },
+    {
+      "id": "createdeco:light_blue_shipping_container",
+      "required": false
+    },
+    {
+      "id": "createdeco:light_gray_shipping_container",
+      "required": false
+    },
+    {
+      "id": "createdeco:lime_shipping_container",
+      "required": false
+    },
+    {
+      "id": "createdeco:long_blue_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:long_dean_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:long_dusk_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:long_pearl_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:long_red_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:long_scarlet_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:long_umber_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:long_verdant_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:magenta_shipping_container",
+      "required": false
+    },
+    {
+      "id": "createdeco:mossy_blue_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:mossy_dean_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:mossy_dusk_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:mossy_pearl_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:mossy_red_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:mossy_scarlet_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:mossy_umber_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:mossy_verdant_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:netherite_coinstack",
+      "required": false
+    },
+    {
+      "id": "createdeco:orange_shipping_container",
+      "required": false
+    },
+    {
+      "id": "createdeco:pearl_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:pink_shipping_container",
+      "required": false
+    },
+    {
+      "id": "createdeco:purple_shipping_container",
+      "required": false
+    },
+    {
+      "id": "createdeco:red_shipping_container",
+      "required": false
+    },
+    {
+      "id": "createdeco:scarlet_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:short_blue_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:short_dean_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:short_dusk_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:short_pearl_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:short_red_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:short_scarlet_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:short_umber_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:short_verdant_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:tiled_blue_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:tiled_dean_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:tiled_dusk_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:tiled_pearl_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:tiled_red_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:tiled_scarlet_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:tiled_umber_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:tiled_verdant_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:umber_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:verdant_bricks",
+      "required": false
+    },
+    {
+      "id": "createdeco:white_shipping_container",
+      "required": false
+    },
+    {
+      "id": "createdeco:yellow_shipping_container",
+      "required": false
+    },
+    {
+      "id": "createdeco:zinc_catwalk_railing",
+      "required": false
+    },
+    {
+      "id": "createdeco:zinc_coinstack",
+      "required": false
+    },
+    {
+      "id": "createdeco:zinc_sheet_metal",
+      "required": false
+    },
+    {
+      "id": "createdeco:zinc_support",
+      "required": false
+    },
+    {
+      "id": "createdeco:zinc_window",
+      "required": false
+    },
+    {
+      "id": "createdeco:zinc_window_pane",
+      "required": false
+    }
   ]
 }

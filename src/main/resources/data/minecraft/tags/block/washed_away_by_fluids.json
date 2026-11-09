@@ -1,24 +1,84 @@
 {
   "values": [
-    "createdeco:decal_creeper",
-    "createdeco:decal_cross",
-    "createdeco:decal_down",
-    "createdeco:decal_down_left",
-    "createdeco:decal_down_right",
-    "createdeco:decal_electrical",
-    "createdeco:decal_fire",
-    "createdeco:decal_fire_diamond",
-    "createdeco:decal_flow",
-    "createdeco:decal_fluid",
-    "createdeco:decal_ice",
-    "createdeco:decal_left",
-    "createdeco:decal_no_entry",
-    "createdeco:decal_radioactive",
-    "createdeco:decal_right",
-    "createdeco:decal_skull",
-    "createdeco:decal_top_left",
-    "createdeco:decal_top_right",
-    "createdeco:decal_up",
-    "createdeco:decal_warning"
+    {
+      "id": "createdeco:decal_creeper",
+      "required": false
+    },
+    {
+      "id": "createdeco:decal_cross",
+      "required": false
+    },
+    {
+      "id": "createdeco:decal_down",
+      "required": false
+    },
+    {
+      "id": "createdeco:decal_down_left",
+      "required": false
+    },
+    {
+      "id": "createdeco:decal_down_right",
+      "required": false
+    },
+    {
+      "id": "createdeco:decal_electrical",
+      "required": false
+    },
+    {
+      "id": "createdeco:decal_fire",
+      "required": false
+    },
+    {
+      "id": "createdeco:decal_fire_diamond",
+      "required": false
+    },
+    {
+      "id": "createdeco:decal_flow",
+      "required": false
+    },
+    {
+      "id": "createdeco:decal_fluid",
+      "required": false
+    },
+    {
+      "id": "createdeco:decal_ice",
+      "required": false
+    },
+    {
+      "id": "createdeco:decal_left",
+      "required": false
+    },
+    {
+      "id": "createdeco:decal_no_entry",
+      "required": false
+    },
+    {
+      "id": "createdeco:decal_radioactive",
+      "required": false
+    },
+    {
+      "id": "createdeco:decal_right",
+      "required": false
+    },
+    {
+      "id": "createdeco:decal_skull",
+      "required": false
+    },
+    {
+      "id": "createdeco:decal_top_left",
+      "required": false
+    },
+    {
+      "id": "createdeco:decal_top_right",
+      "required": false
+    },
+    {
+      "id": "createdeco:decal_up",
+      "required": false
+    },
+    {
+      "id": "createdeco:decal_warning",
+      "required": false
+    }
   ]
 }
