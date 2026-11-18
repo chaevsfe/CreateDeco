@@ -14,6 +14,11 @@ public class CatwalkCTBehaviour  extends SimpleCTBehaviour {
   public CatwalkCTBehaviour (CTSpriteShiftEntry layerShift) { super (layerShift); }
 
   @Override
+  public boolean buildContextForOccludedDirections () {
+    return true;
+  }
+
+  @Override
   public boolean connectsTo(BlockState state, BlockState other, BlockAndTintGetter reader, BlockPos pos, BlockPos otherPos, Direction face) {
     return (face.getAxis().isVertical() && (state.getBlock() == other.getBlock()));
   }
